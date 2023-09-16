@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ProjectReact/static/css/main.bc4c97b5.css",
+    "main.js": "/ProjectReact/static/js/main.b6da9f50.js",
+    "static/js/787.2907e450.chunk.js": "/ProjectReact/static/js/787.2907e450.chunk.js",
+    "static/media/fa-solid-900.ttf": "/ProjectReact/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/ProjectReact/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/ProjectReact/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/ProjectReact/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/ProjectReact/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/ProjectReact/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/ProjectReact/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/ProjectReact/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/ProjectReact/index.html",
+    "main.bc4c97b5.css.map": "/ProjectReact/static/css/main.bc4c97b5.css.map",
+    "main.b6da9f50.js.map": "/ProjectReact/static/js/main.b6da9f50.js.map",
+    "787.2907e450.chunk.js.map": "/ProjectReact/static/js/787.2907e450.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc4c97b5.css",
+    "static/js/main.b6da9f50.js"
+  ]
+}
